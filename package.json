@@ -1,0 +1,10 @@
+{
+  "name": "com.logiygames.extensions",
+  "version": "1.0.0",
+  "displayName": "LOGIYGames Extensions",
+  "description": "Полезные методы расширения для Unity",
+  "unity": "2022.3",
+  "author": {
+	"name": "LOGIYGames"
+  }
+}
